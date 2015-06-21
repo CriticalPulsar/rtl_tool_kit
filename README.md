@@ -6,7 +6,7 @@ All this code is work in progress so if your not a programmer this might not wor
  go to my airprobe fork if you want to use a more advanced version of this with files ./gsm_receive_rtl_mod.py
 
 http://youtu.be/ChCgS1U5hGA
-Here is the lastest update for the airprobe gsm-receiver (rtl tool kit) tmsi linker mod.
+Here is the latest update for the airprobe gsm-receiver (rtl tool kit) tmsi linker mod.
 
 Linking tmsi now implimented for auto mode (Gets delreport timestamps from sim card)
 Manual mode to be implimented next.
